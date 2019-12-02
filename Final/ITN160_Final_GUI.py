@@ -5,6 +5,13 @@ Georgia Mackay ITN160-401
 v1
 """
 
+# Variables
+# Decision Structures
+# Repetition Structures
+# Functions
+# GUI's
+# Lists / Dictionaries / File Streaming / A library or module not covered as a part of the class.
+
 from guizero import *
 
 
